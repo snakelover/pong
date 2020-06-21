@@ -42,8 +42,8 @@ require 'Paddle'
 -- but which will mechanically function very differently
 require 'Ball'
 
-WINDOW_WIDTH = 1280
-WINDOW_HEIGHT = 720
+WINDOW_WIDTH = 1024
+WINDOW_HEIGHT = 640
 
 VIRTUAL_WIDTH = 432
 VIRTUAL_HEIGHT = 243
